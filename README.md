@@ -459,7 +459,7 @@ Before publishing or sharing a deployment, do **not** include:
 Cybersecurity | Cloud | AI for Cybersecurity | Networking | Python & Linux
 
 - GitHub: [@Oussama-Ouenniche](https://github.com/Oussama-Ouenniche)
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/oussama-ouniche-9a81572a5
 
 ---
 
