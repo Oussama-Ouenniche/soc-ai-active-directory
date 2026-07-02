@@ -1,0 +1,35 @@
+# Python environments and bytecode
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+pfe-env/
+
+# Local/private configuration and credentials
+.env
+config/settings.py
+config/iocs.json
+certs/
+*.pem
+*.key
+*.crt
+
+# Generated artifacts and logs
+logs/
+*.log
+models/*.pkl
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Virtual-machine images
+*.vmdk
+*.vmx
+*.ova
+*.iso
+
+# Node.js files accidentally generated locally
+node_modules/
+package-lock.json
+package.json

@@ -1,0 +1,23 @@
+{
+  "ip": [
+    "203.0.113.10"
+  ],
+  "user": [
+    "test_user"
+  ],
+  "host": [
+    "LAB-DC01"
+  ],
+  "workstation": [
+    "LAB-WKS01"
+  ],
+  "group_name": [
+    "Domain Admins"
+  ],
+  "target_user": [
+    "demo_admin"
+  ],
+  "subject_user": [
+    "demo_service"
+  ]
+}
